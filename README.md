@@ -14,8 +14,9 @@ pip install pillow
 ```sh
 python3 main.py
 ```
-Press "File" button to choose one image file or "Folder" to choose multiple image files. A user can choose file in  jpg, gif, tif, bmp, png, pcx format.
+Or use run .exe file (installation: https://habr.com/ru/company/vdsina/blog/557316/).
 ![image](https://user-images.githubusercontent.com/79750202/225918469-5a6b708b-647a-451e-9c9e-75a736528322.png)
+Press "File" button to choose one image file or "Folder" to choose multiple image files. A user can choose file in  jpg, gif, tif, bmp, png, pcx format.
 
 
 ## Libraries
